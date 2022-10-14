@@ -1,5 +1,5 @@
 # About The COMPANY
-Henderson is a large manufacturer of industrial storage tanks that are used by companies in the oil and
+Henderson is a large manufacturer of industrial bunkers that are used by companies in the oil and
 gas industry.
 
 ## The sheets
